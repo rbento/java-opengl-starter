@@ -1,6 +1,6 @@
 # java-opengl-starter
 
-A minimal template for OpenGL projects with Java and Maven.
+A starter template for OpenGL projects with the Java programming language.
 
 ### Dependencies
 ---
