@@ -5,12 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>rbento</groupId>
-    <artifactId>java-opengl-minimal</artifactId>
+    <artifactId>java-opengl-starter</artifactId>
     <version>1.0.0</version>
 
     <packaging>jar</packaging>
 
-    <name>java-opengl-minimal</name>
+    <name>java-opengl-starter</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
